@@ -43,6 +43,10 @@ O programa foi desenvolvido utilizando JavaScript, com foco na manipulação de 
 * **script.js:** Contém o código JavaScript com a lógica do programa.
 * **style.css**: Contém o código CSS com a estilização da página.
 
+
+https://github.com/user-attachments/assets/70f4a792-d4d6-4966-9a0a-d31ab141ed05
+
+
 ## Como Executar
 
 1.  Clone o repositório ou faça o download dos arquivos.
